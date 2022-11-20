@@ -1,0 +1,14 @@
+{
+    "Tables": [
+        {
+            "table_name": "SOIL_TABLE",
+            "Partition_key":"deviceid",
+            "sort_key":"timestamp"
+        },
+        {
+            "table_name": "AIR_TABLE",
+            "Partition_key":"sprinkler",
+            "sort_key":"timestamp"
+        }
+    ]
+}

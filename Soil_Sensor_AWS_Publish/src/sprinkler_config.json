@@ -1,0 +1,44 @@
+{
+    "sprinklers": [
+        {
+            "name": "sprinkler_1",
+            "lat": 25.276987, 
+            "lon": 55.296249,
+            "certificate":"AgriTech-certificate.pem.crt",
+            "private_key":"AgriTech-private.pem.key",
+            "soil_sensors": ["ss_11", "ss_12", "ss_13", "ss_14"]
+        },
+        {
+            "name": "sprinkler_2",
+            "lat": 19.076090, 
+            "lon": 72.877426,
+            "certificate":"AgriTech-certificate.pem.crt",
+            "private_key":"AgriTech-private.pem.key",
+            "soil_sensors": ["ss_21", "ss_22", "ss_23", "ss_24"]
+        },
+        {
+            "name": "sprinkler_3",
+            "lat": 12.972442, 
+            "lon": 77.580643,
+            "certificate":"AgriTech-certificate.pem.crt",
+            "private_key":"AgriTech-private.pem.key",
+            "soil_sensors": ["ss_31", "ss_32", "ss_33", "ss_34"]
+        },
+        {
+            "name": "sprinkler_4",
+            "lat": 17.387140, 
+            "lon": 78.491684,
+            "certificate":"AgriTech-certificate.pem.crt",
+            "private_key":"AgriTech-private.pem.key",
+            "soil_sensors": ["ss_41", "ss_42", "ss_43", "ss_44"]
+        },
+        {
+            "name": "sprinkler_5",
+            "lat": 17.686815, 
+            "lon": 83.218483,
+            "certificate":"AgriTech-certificate.pem.crt",
+            "private_key":"AgriTech-private.pem.key",
+            "soil_sensors": ["ss_51", "ss_52", "ss_53", "ss_54"]
+        }
+    ]
+}
